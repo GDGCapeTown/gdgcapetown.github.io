@@ -5,7 +5,7 @@ tagline: Projects
 ---
 {% include JB/setup %}
 
-<div style="float: right"> ![GDG Cape Town]({{ site.url }}/assets/GDG_CapeTown.jpg) </div>
+![GDG Cape Town]({{ site.url }}/assets/GDG_CapeTown.jpg)
 
 ##Google Cloud Platform Events
 
