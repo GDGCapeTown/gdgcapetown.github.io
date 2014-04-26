@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Community Page
-tagline: Supporting tagline
+title:
+tagline: Projects
 ---
 {% include JB/setup %}
 
