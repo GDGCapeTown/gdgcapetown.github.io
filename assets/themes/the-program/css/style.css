@@ -973,25 +973,25 @@ pre {
    #red a:hover
    {
        background-color: red;
-     color:blue;
+     color: #ffd8bb;
    }
 
     #blue a:hover
     {
         background-color: blue;
-        color:red;
+        color:#c5bfff;
     }
 
     #green a:hover
     {
         background-color: green;
-        color:yellow;
+        color: #cdffc0;
     }
 
     #yellow a:hover
     {
         background-color: yellow;
-        color: green;
+        color: #ffe513;
     }
 
   .the-header .unit-head .nav-global li:nth-child(2) {
