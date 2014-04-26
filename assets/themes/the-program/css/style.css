@@ -972,26 +972,26 @@ pre {
   */
    #red a:hover
    {
-       background-color: #fff04a;
-     color:red;
+       background-color: red;
+     color:blue;
    }
 
     #blue a:hover
     {
-        background-color: #fff04a;
-        color:blue;
+        background-color: blue;
+        color:red;
     }
 
     #green a:hover
     {
-        background-color: #fff04a;
-        color:green;
+        background-color: green;
+        color:yellow;
     }
 
     #yellow a:hover
     {
-        background-color: #fff04a;
-        color:yellow;
+        background-color: yellow;
+        color: green;
     }
 
   .the-header .unit-head .nav-global li:nth-child(2) {
