@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GDG Cape Town
+title: Community Page
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
