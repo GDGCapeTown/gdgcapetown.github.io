@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b319955-baa7-48d0-80d7-dde174ef506d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-04-26-android-workshop-with-the-local-droids.md" afterPath="$PROJECT_DIR$/_posts/2014-04-26-android-workshop-with-the-local-droids.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/wilsonmc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gdgcapetown.github.com.iws" />
@@ -33,7 +33,7 @@
           </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.078192875" vertical-offset="0" max-vertical-offset="1151">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -71,7 +71,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -153,7 +153,11 @@
       <created>1398539259756</created>
       <updated>1398539259756</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added tags to post">
+      <created>1398542123679</created>
+      <updated>1398542123679</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -197,7 +201,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="added image" />
-    <option name="LAST_COMMIT_MESSAGE" value="added image" />
+    <MESSAGE value="added tags to post" />
+    <option name="LAST_COMMIT_MESSAGE" value="added tags to post" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -332,7 +337,7 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.078192875" vertical-offset="0" max-vertical-offset="1151">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
           <folding />
         </state>
       </provider>
