@@ -17,9 +17,9 @@ In `_config.yml` remember to specify your own data:
     
     author :
       name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+      email : algaerhythm@gmail.com
+      github : GDGCapeTown
+      twitter : GDGCapeTown
 
 The theme should reference these variables whenever needed.
     
