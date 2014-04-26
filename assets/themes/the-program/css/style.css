@@ -964,10 +964,36 @@ pre {
     padding: 26px;
     height: 26px;
   }
+  /*
   .the-header .unit-head .nav-global li a:hover {
     background-color: #fff04a;
     color: #474747;
   }
+  */
+   #red a:hover
+   {
+       background-color: #fff04a;
+     color:red;
+   }
+
+    #blue a:hover
+    {
+        background-color: #fff04a;
+        color:blue;
+    }
+
+    #green a:hover
+    {
+        background-color: #fff04a;
+        color:green;
+    }
+
+    #yellow a:hover
+    {
+        background-color: #fff04a;
+        color:yellow;
+    }
+
   .the-header .unit-head .nav-global li:nth-child(2) {
     border-width: 0 1px;
   }
