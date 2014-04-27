@@ -2,7 +2,7 @@
 layout: post
 title: "Android Workshop with the local droids"
 description: ""
-category: 
+category: Workshop
 tags: [android, workshop, hackathon]
 ---
 {% include JB/setup %}
